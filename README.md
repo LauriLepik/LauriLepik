@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub profile!
-<a>
+<div>
 You can find me on [![LinkedIn][2.2]][2]!
-</a>
+</div>
 ![Lauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauriLepik&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LauriLepik)
 ![Lauri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LauriLepik)
