@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my GitHub profile!
-![Lauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauriLepik&count_private=true&show_icons=true&theme=onedark)
+![Lauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauriLepik&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LauriLepik)
 
 <!--
