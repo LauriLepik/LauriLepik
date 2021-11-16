@@ -7,7 +7,7 @@
 
 <!-- Icons -->
 
-[2.2]: https://cdn-icons-png.flaticon.com/16/174/174857.png (LinkedIn)
+[2.2]: https://cdn-icons-png.flaticon.com/32/174/174857.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
