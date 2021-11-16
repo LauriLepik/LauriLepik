@@ -9,12 +9,10 @@ You can find me on [![LinkedIn][2.2]][2]!
 
 <!-- Icons -->
 
-[1.2]: https://cdn-icons.flaticon.com/png/16/3256/premium/3256013.png (twitter icon without padding)
 [2.2]: https://cdn-icons-png.flaticon.com/16/174/174857.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/
 [2]: https://www.linkedin.com/in/lauri-lepik/
 <!--
 **LauriLepik/LauriLepik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
