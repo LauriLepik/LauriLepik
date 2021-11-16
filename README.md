@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my GitHub profile!
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]!
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2]!
 ![Lauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauriLepik&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LauriLepik)
 ![Lauri's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LauriLepik)
@@ -8,7 +8,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]!
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://cdn-icons-png.flaticon.com/512/174/174857.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
